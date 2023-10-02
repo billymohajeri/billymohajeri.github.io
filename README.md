@@ -6,7 +6,7 @@
 
 This is a website containing a collection of Projects I have worked on, my technical & professional skills, and how to contact me.
 
-[Link to template in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=48%3A27)
+[Link to the template in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=48%3A27)
 
 ## Built With
 
