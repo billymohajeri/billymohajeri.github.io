@@ -24,7 +24,7 @@ This is a website containing a collection of Projects I have worked on, my techn
 
 ### Setup
 
-- Clone your this repositery to your local machine.
+- Clone this repository to your local machine.
 - Open the project folder in VS Code.
 
 ## Authors
